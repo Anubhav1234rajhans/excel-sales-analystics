@@ -15,3 +15,5 @@
 - *Project objective:*
 
   *1.* Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Anubhav1234rajhans/excel-sales-analystics/blob/main/P%20%26%20L%20fiscalYear%20(Markets).pdf)
+
+2.* Create Profit and Loss (P&L)  reports by _[Months]

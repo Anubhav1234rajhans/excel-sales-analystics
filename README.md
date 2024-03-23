@@ -13,3 +13,5 @@
 ## Finance Report :
 
 - *Project objective:*
+
+  *1.* Create Profit and Loss (P&L) reports by _[Fiscal Year]
